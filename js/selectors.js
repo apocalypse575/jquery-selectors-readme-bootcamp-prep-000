@@ -18,3 +18,7 @@ function divSelector() {
   let divPics = $('.pics')
   return divPics
 }
+
+function firstListItem() {
+  
+}
